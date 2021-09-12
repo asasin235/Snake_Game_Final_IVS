@@ -2,8 +2,7 @@ import './App.css';
 import Snake from './Snake/Snake'
 import  Navbar  from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container'
-import ReactBootstrap from 'react-bootstrap'
-import Nav from 'react-bootstrap/Nav'
+
 
 function App() {
   
