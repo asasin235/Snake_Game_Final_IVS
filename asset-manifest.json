@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Snake_Game_Final_IVS/static/css/main.afb21418.chunk.css",
+    "main.js": "/Snake_Game_Final_IVS/static/js/main.1bddc9c4.chunk.js",
+    "main.js.map": "/Snake_Game_Final_IVS/static/js/main.1bddc9c4.chunk.js.map",
+    "runtime-main.js": "/Snake_Game_Final_IVS/static/js/runtime-main.157ff31c.js",
+    "runtime-main.js.map": "/Snake_Game_Final_IVS/static/js/runtime-main.157ff31c.js.map",
+    "static/js/2.6c3c6138.chunk.js": "/Snake_Game_Final_IVS/static/js/2.6c3c6138.chunk.js",
+    "static/js/2.6c3c6138.chunk.js.map": "/Snake_Game_Final_IVS/static/js/2.6c3c6138.chunk.js.map",
+    "static/js/3.f62c79f4.chunk.js": "/Snake_Game_Final_IVS/static/js/3.f62c79f4.chunk.js",
+    "static/js/3.f62c79f4.chunk.js.map": "/Snake_Game_Final_IVS/static/js/3.f62c79f4.chunk.js.map",
+    "index.html": "/Snake_Game_Final_IVS/index.html",
+    "static/css/main.afb21418.chunk.css.map": "/Snake_Game_Final_IVS/static/css/main.afb21418.chunk.css.map",
+    "static/js/2.6c3c6138.chunk.js.LICENSE.txt": "/Snake_Game_Final_IVS/static/js/2.6c3c6138.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.157ff31c.js",
+    "static/js/2.6c3c6138.chunk.js",
+    "static/css/main.afb21418.chunk.css",
+    "static/js/main.1bddc9c4.chunk.js"
+  ]
+}
